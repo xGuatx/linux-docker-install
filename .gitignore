@@ -1,0 +1,27 @@
+# Logs
+*.log
+logs/
+
+# Downloaded packages
+*.deb
+*.rpm
+packages/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+.claude.json
